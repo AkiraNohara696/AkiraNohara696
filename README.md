@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to my profile
+# 👋 Oiiiii, dboas?! Bem vindo ao meu perfil
 
 ## 🚀 Full Stack Developer & AI Agent Dev
 
@@ -8,8 +8,8 @@ Sou apaixonado por tecnologia, inovação e inteligência artificial. Trabalho d
 
 ### 📌 Sobre Mim
 
-- ⚡ Especialidade: Desenvolvimento Full Stack (JavaScript, React, Python, Node.js)
-- 🤖 Agente IA: Experiência com agentes autônomos (RAG, CrewAI, LLM Ops)
+- ⚡ Especialidade: Desenvolvimento Full Stack (JavaScript, React, Java, Python, Node.js)
+- 🤖 Agente IA: Experiência com agentes autônomos (LLM com Uso de DSPy)
 - 🔭 Projetos: Web apps, assistentes conversacionais, pipelines de dados, integrações REST/gRPC
 - 🌱 Aprendendo: Deep Learning, Deployment de IA, Edge Computing, Integração de sensores/hardware
 
@@ -17,44 +17,24 @@ Sou apaixonado por tecnologia, inovação e inteligência artificial. Trabalho d
 
 ### 🛠️ Tecnologias
 
-- **Frontend**: React.js, Next.js, Vite, HTML5, CSS3, Tailwind
-- **Backend**: Node.js, Express, Python (FastAPI, Flask), Django
+- **Frontend**: React.js, Vite, HTML5, CSS3
+- **Backend**: Node.js, Python (FastAPI, Flask), Java
 - **IA & ML**: TensorFlow, PyTorch, OpenAI APIs, DSPy, CrewAI, Neo4j, Gemini, LangChain
-- **Banco de Dados**: PostgreSQL, MongoDB, Redis, Neo4j
-- **Infraestrutura**: Docker, GitHub Actions, Azure, AWS, Linux/Ubuntu
-- **DevOps**: CI/CD, Testes Automatizados, Monitoramento
-
----
-
-### 💡 Principais Projetos
-
-| Projeto             | Descrição                                      | Tecnologias             |
-|---------------------|------------------------------------------------|-------------------------|
-| Assistente IA       | Agente autônomo com RAG e integração Gemini    | Python, CrewAI, Neo4j   |
-| Escola Web          | Plataforma educacional full stack              | React, Node, PostgreSQL |
-| Navigation Vision   | App assistivo com CV para deficientes visuais  | React, OpenCV, TensorFlow|
+- **Banco de Dados**: MySql
+- **Infraestrutura**: GitHub Actions, Linux/Ubuntu
 
 ---
 
 ### 🤝 Como colaborar
 
-- Abra uma **issue** ou envie um **pull request**!
 - Dúvidas ou sugestões? Fale comigo por [LinkedIn](#) ou pelo email abaixo.
 
 ---
 
 ### 📫 Contato
 
-- Email: seu.email@email.com
-- LinkedIn: [Seu Perfil](#)
-
----
-
-### 📚 Recursos e Inspirações
-
-- [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/)
-- [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
-- [ReadMe Template](https://github.com/iuricode/readme-template)
+- Email: marcosilv090@gmail.com
+- LinkedIn: [(https://www.linkedin.com/in/marcos-augusto-591019342/)](#)
 
 ---
 
